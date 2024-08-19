@@ -1,5 +1,4 @@
 # ApsiyonKasif
-## Proje Görüntüleri
 
 ### Logo 
 ![Frame 163167](https://github.com/user-attachments/assets/e5b6b8fe-988f-4c15-aecf-6e3cd4ea4348)
